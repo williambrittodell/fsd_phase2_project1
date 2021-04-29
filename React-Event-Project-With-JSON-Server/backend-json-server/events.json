@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "title": "IPL KKR vs DD 2",
+      "domain": "sports",
+      "price": 2500,
+      "location": "Goa",
+      "startDate": "2020-10-21",
+      "endDate": "2020-10-22",
+      "photoPath": "www.demo_path.jpeg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "organizerName": "91 Events",
+      "id": "04f9f868-9678-4193-8ef4-51be1ba13d1c"
+    },
+    {
+      "id": "87a9094a-8ed9-4e8f-a08a-f2c69d916cad",
+      "title": "IPL KKR vs DD 3",
+      "domain": "sports",
+      "price": 2500,
+      "location": "Maharashtra",
+      "startDate": "2020-10-21",
+      "endDate": "2020-10-23",
+      "photoPath": "www.demo_path.jpeg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "organizerName": "91 Events"
+    },
+    {
+      "id": "pJ6RgT-",
+      "title": "My Event Updated",
+      "domain": "sports",
+      "price": "1000",
+      "location": "US",
+      "startDate": "2020-10-21",
+      "endDate": "2020-10-21",
+      "photoPath": "www.demo_path.jpeg",
+      "description": "A new event",
+      "organizerName": "Mike"
+    },
+    {
+      "id": "ZVO5iR6",
+      "title": "Title1",
+      "domain": "Domain1",
+      "price": "1",
+      "location": "Location1",
+      "startDate": "05/01/2021",
+      "endDate": "05/02/2021",
+      "photoPath": "Photo1",
+      "description": "Description1",
+      "organizerName": "William Britto"
+    }
+  ]
+}
